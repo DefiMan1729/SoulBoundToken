@@ -4,5 +4,7 @@ Gating Token: A soul bound token can act as a gate pass to an event at the metav
 
 Degree Certificate: A soul bound token can be awarded by an education institution for successful completion of a degree.&#x20;
 
-
-
+```
+Interact with my smart contract in Goerli Network:
+0x1569C9853e01bb6069B6d0Ca28C2fA86832b7308
+```
